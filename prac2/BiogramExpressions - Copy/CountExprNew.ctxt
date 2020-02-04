@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x0\ y0
+comment0.target=CountExprNew(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CountExprNew\r\n
+comment1.params=
+comment1.target=void\ doOnce()
+comment1.text=\r\n\ Transformation\ method\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=boolean\ finished()
+numComments=3
