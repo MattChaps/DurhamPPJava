@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=account_number\ person
+comment0.target=BankAccount(int,\ Person)
+comment1.params=x
+comment1.target=void\ make_transaction(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ view_transaction()
+numComments=3
