@@ -57,5 +57,15 @@ public class Database
         item = new CD("My Worlds", "Justin", 10, 100);
         item.setComment("Why ???");
         this.addItem(item);
+        
+        DVD item2;
+        
+        item2 = new DVD("No Time To Die", "Cary Joji Fukunaga", 163);
+        this.addItem(item2);
+        
+        VideoGame item3;
+        
+        item3 = new VideoGame("Dishonored", "Bathesda");
+        this.addItem(item3);
     }
 }

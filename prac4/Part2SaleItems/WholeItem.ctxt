@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=name\ refID\ VAT\ pricePerUnit
+comment0.target=WholeItem(java.lang.String,\ int,\ float,\ float)
+comment1.params=
+comment1.target=float\ getPriceBeforeTax()
+comment2.params=
+comment2.target=float\ getPriceAfterTax()
+comment3.params=
+comment3.target=void\ print()
+numComments=4

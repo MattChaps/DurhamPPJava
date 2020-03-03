@@ -27,4 +27,13 @@ public class DVD extends Item
     {
         return director;
     }
+    
+    /**
+     * Print details about this item to the text terminal.
+     */
+    public void print()
+    {
+        super.print();
+        System.out.println("director: " + director );
+    }
 }

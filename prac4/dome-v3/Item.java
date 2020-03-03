@@ -25,6 +25,13 @@ public class Item
         gotIt = false;
         comment = "";
     }
+    
+    public Item(String theTitle)
+    {
+        title = theTitle;
+        gotIt = false;
+        comment = "";
+    }
 
     /**
      * Enter a comment for this item.
